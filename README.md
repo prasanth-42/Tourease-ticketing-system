@@ -50,13 +50,13 @@
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/Homepage.png)
+![Home Page](tms/screenshots/Homepage.png)
 
 ### 🎟️ Ticket List - View 1
-![Ticket List 1](screenshots/ticket_list1.png)
+![Ticket List 1](tms/screenshots/ticket_list1.png)
 
 ### 🎟️ Ticket List - View 2
-![Ticket List 2](screenshots/ticket_list2.png)
+![Ticket List 2](tms/screenshots/ticket_list2.png)
 
 ### 🛠️ Admin Dashboard
-![Admin Dashboard](screenshots/admin_dashboard.png)
+![Admin Dashboard](tms/screenshots/admin_dashboard.png)
