@@ -45,3 +45,18 @@
 
 7. Run the project in your browser by navigating to:  
    `http://localhost/tms`
+
+   
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/Homepage.png)
+
+### 🎟️ Ticket List - View 1
+![Ticket List 1](screenshots/ticket_list1.png)
+
+### 🎟️ Ticket List - View 2
+![Ticket List 2](screenshots/ticket_list2.png)
+
+### 🛠️ Admin Dashboard
+![Admin Dashboard](screenshots/admin_dashboard.png)
