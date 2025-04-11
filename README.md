@@ -24,8 +24,9 @@
 ## 💻 Installation & Setup
 
 1. Clone the repository from GitHub using the following command in your terminal or Git Bash:  
-   `git clone https://github.com/your-username/tourease.git`
-
+```bash
+git clone https://github.com/your-username/tourease.git
+```
 2. Move the downloaded project folder to your XAMPP `htdocs` directory. Example path:  
    `C:/xampp/htdocs/tms`
 
@@ -60,3 +61,17 @@
 
 ### 🛠️ Admin Dashboard
 ![Admin Dashboard](tms/screenshots/admin_dashboard.png)
+
+## 🎥 Project Demo
+
+Watch the full video explanation here:  
+[▶️ Tourease - Project Demo](https://youtu.be/bT3mZ9UrGpM)
+
+## 📬 Contact
+
+For any queries or feedback, feel free to reach out via [email](mailto:prasanth6044@gmail.com).
+
+## 📄 License
+
+This project is licensed under the MIT License.  
+See the [LICENSE](LICENSE) file for more details.
