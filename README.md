@@ -25,7 +25,7 @@
 
 1. Clone the repository from GitHub using the following command in your terminal or Git Bash:  
 ```bash
-git clone https://github.com/your-username/tourease.git
+git clone https://github.com/prasanth-42/tourease.git
 ```
 2. Move the downloaded project folder to your XAMPP `htdocs` directory. Example path:  
    `C:/xampp/htdocs/tms`
